@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\munip\Desktop\Salamat\Programming\JetBrains codes\Clion\C++\Computer_Graphics_Study\build\CMakeFiles\d6c6b1fddf557d57a6226aa8d764ca3e\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BAF28E45-6DDB-3B5B-BF5C-319BB52EF42E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

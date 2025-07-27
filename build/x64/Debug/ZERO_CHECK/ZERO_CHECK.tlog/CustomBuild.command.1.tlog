@@ -1,0 +1,10 @@
+^C:\USERS\MUNIP\DESKTOP\SALAMAT\PROGRAMMING\JETBRAINS CODES\CLION\C++\COMPUTER_GRAPHICS_STUDY\BUILD\CMAKEFILES\D6C6B1FDDF557D57A6226AA8D764CA3E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/munip/Desktop/Salamat/Programming/JetBrains codes/Clion/C++/Computer_Graphics_Study" "-BC:/Users/munip/Desktop/Salamat/Programming/JetBrains codes/Clion/C++/Computer_Graphics_Study/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/munip/Desktop/Salamat/Programming/JetBrains codes/Clion/C++/Computer_Graphics_Study/build/Computer_Graphics_Study.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

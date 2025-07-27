@@ -1,0 +1,3 @@
+C:/Users/munip/Desktop/Salamat/Programming/JetBrains codes/Clion/C++/Computer_Graphics_Study/build/CMakeFiles/Computer_Graphics_Study.dir
+C:/Users/munip/Desktop/Salamat/Programming/JetBrains codes/Clion/C++/Computer_Graphics_Study/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/munip/Desktop/Salamat/Programming/JetBrains codes/Clion/C++/Computer_Graphics_Study/build/CMakeFiles/ZERO_CHECK.dir

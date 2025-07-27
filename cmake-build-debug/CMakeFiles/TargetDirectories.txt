@@ -1,0 +1,3 @@
+C:/Users/munip/Desktop/Salamat/Programming/Projects/C++/Computer_Graphics_Study/cmake-build-debug/CMakeFiles/Computer_Graphics_Study.dir
+C:/Users/munip/Desktop/Salamat/Programming/Projects/C++/Computer_Graphics_Study/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/munip/Desktop/Salamat/Programming/Projects/C++/Computer_Graphics_Study/cmake-build-debug/CMakeFiles/rebuild_cache.dir

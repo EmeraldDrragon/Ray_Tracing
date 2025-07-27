@@ -1,0 +1,8 @@
+# ninja log v6
+997	1176	7675905890872590	Computer_Graphics_Study.exe	ca65e3d831bfa0db
+21	996	7675905881111883	CMakeFiles/Computer_Graphics_Study.dir/main.cpp.obj	e555f98b9305c03f
+2	257	7719601054591064	build.ninja	52e8438a5bb438fb
+20	751	7675899245262076	CMakeFiles/Computer_Graphics_Study.dir/Renderer.cpp.obj	32f442c5ca4c744
+51	2513	7719601088483951	CMakeFiles/Computer_Graphics_Study.dir/Renderer.cpp.obj	a8484e311ada8a78
+40	3065	7719601088382048	CMakeFiles/Computer_Graphics_Study.dir/main.cpp.obj	6351afbc5a7c9026
+3065	3438	7719601118630804	Computer_Graphics_Study.exe	ca65e3d831bfa0db
